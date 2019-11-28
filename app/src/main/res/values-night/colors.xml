@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#36474f</color>
+    <color name="colorPrimaryDark">#36474f</color>
+    <color name="colorAccent">#36474f</color>
+    <color name="white">#ffffff</color>
+    <color name="light">#c7c7c7</color>
+    <color name="black">#0b0b0b</color>
+    <color name="cursor_color">#36474f</color>
+    <color name="light_black">#4b4b4b</color>
+    <color name="darkwhite">#5c5c5c</color>
+    <color name="newsrimary">#36474f</color>
+    <color name="newsPrimaryDark">#36474f</color>
+    <color name="newsAccent">#1e344b</color>
+    <color name="darkTab">#9b9b9b</color>
+    <color name="colorBackground">#424242</color>
+    <color name="colorTextSubtitle">#ffffff</color>
+    <color name="colorTextTitle">#ffffff</color>
+    <color name="bgColor">#1A2229</color>
+    <color name="cardBg">#202D39</color>
+
+</resources>

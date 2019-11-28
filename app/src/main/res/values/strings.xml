@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Worldwidenews</string>
+    <string name="browse">Browse</string>
+    <string name="podcast">Podcast</string>
+    <string name="user">User</string>
+    <string name="home">Home</string>
+    <string name="setting">Settings</string>
+    <string name="video">Video</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="facebook_app_id">298253917700507</string>
+    <string name="fb_login_protocol_scheme">fb298253917700507</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hours_ago_38m">% hours ago || 38m</string>
+    <string name="hours_ago_18_m">% hours ago || 18m</string>
+    <string name="hours_ago_21m">%hours ago || 21m</string>
+    <string name="nbc_on_earth_water_prize">NBC on Earth water prize</string>
+    <string name="sign_out">Sign out</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_browse">Browse</string>
+    <string name="Vcast">Vcast</string>
+    <string name="Explore">Explore</string>
+</resources>
